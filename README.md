@@ -5,6 +5,9 @@
 **EN** · Native iPhone, Mac & Android app for your own [TeslaMate](https://github.com/teslamate-org/teslamate). No cloud, no account, no tracking.
 **ES** · App nativa para tu propio TeslaMate en iPhone, Mac y Android. Sin nube, sin cuenta, sin rastreo.
 
+**ES** · En ajustes hay una sección de "Enviar comentarios" para reportar problemas
+**EN** · In settings, there is a "Send feedback" section for reporting issues.
+
 > **Status / Estado:** testing / en pruebas. Not yet in the App Store or Google Play.
 
 <p align="center">
