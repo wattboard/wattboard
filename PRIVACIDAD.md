@@ -1,9 +1,9 @@
-# Política de privacidad de Wattboard
+# Política de privacidad de WattBoard
 
-*Borrador · última actualización: 14 de octubre de 2026. Revísalo (idealmente con asesoría legal) antes de publicarlo.*
+*Última actualización: 15 de octubre de 2026.*
 
 ## Quién soy
-Wattboard es una app creada y mantenida por **zerocoolspain** (proyecto independiente, no afiliado a Tesla, Inc. ni al proyecto TeslaMate).
+WattBoard (iPhone, iPad, Apple Watch, Mac y Android) es una app creada y mantenida por **zerocoolspain** (proyecto independiente, no afiliado a Tesla, Inc. ni al proyecto TeslaMate).
 Contacto para cualquier asunto de privacidad: **wattboardapp@gmail.com**.
 
 ## Resumen
@@ -12,17 +12,18 @@ Contacto para cualquier asunto de privacidad: **wattboardapp@gmail.com**.
 - La única información que puede llegar al desarrollador es el **comentario que tú decidas enviar** desde «Enviar comentarios».
 
 ## Datos que la app trata en tu dispositivo
-- **Datos de tu coche y tus viajes**, leídos de tu servidor. Se muestran en pantalla y se guardan una copia temporal en tu iPhone para poder verlos sin conexión (borrable al desinstalar la app).
-- **Direcciones y credenciales de tu servidor.** Las contraseñas y tokens se guardan en el llavero de iOS. La dirección y el token de TeslaMateApi se comparten con los widgets de la app mediante un contenedor privado (App Group).
+- **Datos de tu coche y tus viajes**, leídos de tu servidor. Se muestran en pantalla y se guardan una copia temporal en tu dispositivo para poder verlos sin conexión (borrable al desinstalar la app).
+- **Direcciones y credenciales de tu servidor.** Las contraseñas y tokens se guardan en el llavero de iOS/macOS, o cifrados con el Keystore de Android. En los dispositivos Apple, la dirección y el token de TeslaMateApi se comparten con los widgets de la app mediante un contenedor privado (App Group).
 - **Ajustes** (idioma, apariencia, avisos) y un **registro de errores recientes** sin direcciones, usuarios ni contraseñas.
-- **Notificaciones locales** (fin de carga, batería baja): se calculan en tu iPhone, sin servidor.
+- **Notificaciones locales** (fin de carga, batería baja): se calculan en tu dispositivo, sin servidor. El bloqueo con Face ID, Touch ID o huella lo gestiona el sistema operativo: la app nunca recibe tus datos biométricos.
 
 ## Servicios de terceros que usa la app
-- **Apple Mapas / MapKit**: para mostrar mapas. Apple recibe las coordenadas necesarias para dibujar el mapa, según su política de privacidad.
+- **Apple Mapas / MapKit** (iPhone, iPad y Mac): para mostrar mapas. Apple recibe las coordenadas necesarias para dibujar el mapa, según su política de privacidad.
+- **Escáner de códigos de Google (servicios de Google Play)** en Android, solo si escaneas un QR de configuración. El escaneo se procesa en el dispositivo y la app no recibe las imágenes de la cámara.
 - Tu propio servidor y las herramientas que tú alojas (Tailscale, VPN, etc.) se rigen por sus propias condiciones.
 
 ## Comentarios enviados por el usuario (opcional)
-Solo si pulsas **Enviar** en «Enviar comentarios»:
+Solo si pulsas **Enviar** en «Enviar comentarios» (disponible en la app de iPhone/iPad/Mac; la app de Android no tiene formulario de comentarios por ahora):
 - Se envía: el texto que escribes, las capturas que adjuntes, tu correo (si lo indicas) y, si lo dejas activado, **información técnica** (versión de la app y del sistema, ajustes, tipo de conexión y últimos errores). **No** incluye direcciones de tu servidor, usuarios, contraseñas ni tus datos de conducción.
 - Cómo viaja: la app lo envía a un **relé alojado en Cloudflare (Workers)** operado por el desarrollador, que lo reenvía a un **chat privado de Telegram** del desarrollador mediante un bot. El relé no guarda el contenido; Cloudflare puede tratar tu dirección IP para entregar la petición y para limitar el número de envíos (se conserva como máximo una hora).
 - Para qué: solo para leer, reproducir y corregir el problema o estudiar tu sugerencia, y responderte si dejaste un correo.
