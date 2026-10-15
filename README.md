@@ -21,6 +21,12 @@
 - Face ID / fingerprint lock, privacy mode, QR setup between devices.
 - 7 languages: es, en, de, fr, pt, zh, fi.
 
+## Guía de conexión / Connection guide
+[Guía de conexión (PDF, ES)](guides/Wattboard-guia-conexion.pdf) · [Connection guide (PDF, EN)](guides/Wattboard-connection-guide.pdf)
+
+## Downloads / Descargas
+Test builds are published in [Releases](../../releases). Check the fingerprint with [VERIFY.md](VERIFY.md) · Comprueba la huella con [VERIFY.md](VERIFY.md).
+
 ## Privacy
 Your data goes straight from **your server** to **your phone**. There is no WattBoard server, no account and no analytics. See the [privacy policy](PRIVACY.md) · [política de privacidad](PRIVACIDAD.md).
 
