@@ -6,7 +6,7 @@ Las versiones de pruebas aún no están firmadas por Apple ni Google. Para asegu
 | File / Archivo | Version | SHA-256 |
 |---|---|---|
 | `WattBoard-Mac-pruebas.zip` (macOS 14+) | 1.0 test · 15 Oct 2026 | `c9cf8a223a038722dc372ce7d1d5d848c1c441e3e30cfe255853c418cd99c0cb` |
-| `Wattboard-android-prueba.apk` (Android 8+) | 1.0 test · 15 Oct 2026 | `49320eb1cd41ef9d7bfbaac7ddfa3582deef9fcec14a08404a1a18c412a86695` |
+| `Wattboard-android-prueba.apk` (Android 8+) | 1.0 test · 15 Oct 2026 | `8c57250c50bb26a6af2e1ea185123438f53d9344b57cf8cfc4f48a90fb52bb10` |
 
 ## macOS
 Open Terminal and run / Abre Terminal y escribe:
