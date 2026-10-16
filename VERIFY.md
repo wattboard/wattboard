@@ -6,7 +6,6 @@ Las versiones de pruebas aún no están firmadas por Apple ni Google. Para asegu
 | File / Archivo | Version | SHA-256 |
 |---|---|---|
 | `WattBoard-Mac-pruebas.zip` (macOS 14+) | 1.0 test · 15 Oct 2026 | `c9cf8a223a038722dc372ce7d1d5d848c1c441e3e30cfe255853c418cd99c0cb` |
-| `Wattboard-android-prueba.apk` (Android 8+) | 1.0 (2) · 16 Oct 2026 | `e07954bf739d9dfe3bbcb5c9be1688b17ce0cd52475a3a5c9fc7d1f82cdfdbf4` |
 
 ## macOS
 Open Terminal and run / Abre Terminal y escribe:
@@ -15,11 +14,11 @@ Open Terminal and run / Abre Terminal y escribe:
 shasum -a 256 ~/Downloads/WattBoard-Mac-pruebas.zip
 ```
 
-## Android / Linux / Windows
+## Linux / Windows
 ```bash
-sha256sum Wattboard-android-prueba.apk
+sha256sum WattBoard-Mac-pruebas.zip
 ```
-Windows PowerShell: `Get-FileHash .\Wattboard-android-prueba.apk -Algorithm SHA256`
+Windows PowerShell: `Get-FileHash .\WattBoard-Mac-pruebas.zip -Algorithm SHA256`
 
 The result must match the table exactly. If it does not, **do not open the file** and write to wattboardapp@gmail.com.
 El resultado debe coincidir exactamente con la tabla. Si no coincide, **no abras el archivo** y escribe a wattboardapp@gmail.com.

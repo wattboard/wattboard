@@ -25,13 +25,14 @@
 [Guía de conexión (PDF, ES)](guides/Wattboard-guia-conexion.pdf) · [Connection guide (PDF, EN)](guides/Wattboard-connection-guide.pdf)
 
 ## Downloads / Descargas
-Test builds are published in [Releases](../../releases). Check the fingerprint with [VERIFY.md](VERIFY.md) · Comprueba la huella con [VERIFY.md](VERIFY.md).
+iOS / iPadOS / macOS: TestFlight (by invitation) · por invitación. Android: Google Play (closed test) · prueba cerrada en Google Play. The macOS test build in [Releases](../../releases) can be verified with [VERIFY.md](VERIFY.md) · El zip de macOS de [Releases](../../releases) se puede comprobar con [VERIFY.md](VERIFY.md).
 
 ## Privacy
 Your data goes straight from **your server** to **your phone**. There is no WattBoard server, no account and no analytics. See the [privacy policy](PRIVACY.md) · [política de privacidad](PRIVACIDAD.md).
 
 ## Testing / Pruebas
-Want to try it? Open an [issue](../../issues/new/choose) or write to **wattboardapp@gmail.com**. The Android test build (APK) and the Mac test build are in [Releases](../../releases) · Los APK de Android y el de Mac de pruebas están en [Releases](../../releases). If you already installed an older Android build, uninstall it first (the signing key changed) · Si tenías una versión anterior de Android, desinstálala antes (ha cambiado la clave de firma).
+Want to try it? iPhone, iPad and Mac: open an [issue](../../issues/new/choose) or write to **wattboardapp@gmail.com** and you will get a TestFlight invitation. Android: the test version is distributed through Google Play (closed test); write to the same address with your Gmail to be added. The old APK in [Releases](../../releases) is obsolete and no longer updated.
+¿Quieres probarla? iPhone, iPad y Mac: escribe a **wattboardapp@gmail.com** o abre un [issue](../../issues/new/choose) y recibirás una invitación de TestFlight. Android: la versión de pruebas va por Google Play (prueba cerrada); escribe al mismo correo con tu Gmail para que te añada. El APK antiguo de [Releases](../../releases) está obsoleto y ya no se actualiza.
 
 ## Plans / Planes
 Free: car, drives, charges, basic statistics, widgets and share cards. **Plus** (one-time): Grafana dashboards as native screens. **Pro** (one-time): everything in Plus and the advanced features. 14 days of Pro free when you connect your car · Gratis con lo esencial; **Plus** (pago único) añade los dashboards de Grafana; **Pro** (pago único) añade las funciones avanzadas. 14 días de Pro gratis al conectar tu coche.
