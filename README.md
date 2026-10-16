@@ -3,12 +3,7 @@
 # WattBoard
 
 **EN** · Native iPhone, Mac & Android app for your own [TeslaMate](https://github.com/teslamate-org/teslamate). No cloud, no account, no tracking.
-
 **ES** · App nativa para tu propio TeslaMate en iPhone, Mac y Android. Sin nube, sin cuenta, sin rastreo.
-
-**ES** · En ajustes hay una sección de "Enviar comentarios" para reportar problemas
-
-**EN** · In settings, there is a "Send feedback" section for reporting issues.
 
 > **Status / Estado:** testing / en pruebas. Not yet in the App Store or Google Play.
 
@@ -36,7 +31,10 @@ Test builds are published in [Releases](../../releases). Check the fingerprint w
 Your data goes straight from **your server** to **your phone**. There is no WattBoard server, no account and no analytics. See the [privacy policy](PRIVACY.md) · [política de privacidad](PRIVACIDAD.md).
 
 ## Testing / Pruebas
-Want to try it? Open an [issue](../../issues/new/choose) or write to **wattboardapp@gmail.com**. Android test builds will be published in [Releases](../../releases).
+Want to try it? Open an [issue](../../issues/new/choose) or write to **wattboardapp@gmail.com**. The Android test build (APK) and the Mac test build are in [Releases](../../releases) · Los APK de Android y el de Mac de pruebas están en [Releases](../../releases). If you already installed an older Android build, uninstall it first (the signing key changed) · Si tenías una versión anterior de Android, desinstálala antes (ha cambiado la clave de firma).
+
+## Plans / Planes
+Free: car, drives, charges, basic statistics, widgets and share cards. **Plus** (one-time): Grafana dashboards as native screens. **Pro** (one-time): everything in Plus and the advanced features. 14 days of Pro free when you connect your car · Gratis con lo esencial; **Plus** (pago único) añade los dashboards de Grafana; **Pro** (pago único) añade las funciones avanzadas. 14 días de Pro gratis al conectar tu coche.
 
 ## What you need
 A running TeslaMate. For the full experience also [TeslaMateApi](https://github.com/tobiasehlert/teslamateapi) and Grafana. Never expose these services to the internet without protection: use a VPN or a reverse proxy with HTTPS.
