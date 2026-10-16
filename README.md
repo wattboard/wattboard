@@ -14,7 +14,7 @@
 </p>
 
 ## What it does
-- Car status, battery, range, climate, tyres, doors and locks (via TeslaMateApi).
+- Car status, battery, range, climate, tyres, doors and locks (via your server's REST API).
 - Drives and charges with filters, stats by date range, CSV and GPX export.
 - Widgets, Apple Watch, charge and plug-in alerts, offline cache.
 - Your own Grafana dashboards as native screens.
@@ -38,9 +38,9 @@ Want to try it? iPhone, iPad and Mac: open an [issue](../../issues/new/choose) o
 Free: car, drives, charges, basic statistics, widgets and share cards. **Plus** (one-time): Grafana dashboards as native screens. **Pro** (one-time): everything in Plus and the advanced features. 14 days of Pro free when you connect your car · Gratis con lo esencial; **Plus** (pago único) añade los dashboards de Grafana; **Pro** (pago único) añade las funciones avanzadas. 14 días de Pro gratis al conectar tu coche.
 
 ## What you need
-A running [TeslaMate](https://github.com/teslamate-org/teslamate) server of your own. For the full experience also [TeslaMateApi](https://github.com/tobiasehlert/teslamateapi) and Grafana. Never expose these services to the internet without protection: use a VPN or a reverse proxy with HTTPS.
+A self-hosted server of your own that logs your car's data, with its REST API and/or Grafana. Never expose these services to the internet without protection: use HTTPS or a private connection.
 
 ## Disclaimer
-This project is an unofficial community tool and is not affiliated with, endorsed by, or supported by the official TeslaMate project. Tesla is a trademark of Tesla, Inc.
+WattBoard is an independent project and is not affiliated with, endorsed by, or sponsored by Tesla, Inc. Tesla is a trademark of Tesla, Inc.
 
 © zerocoolspain. All rights reserved. This repository contains project information only, not the source code.

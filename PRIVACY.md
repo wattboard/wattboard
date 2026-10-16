@@ -3,24 +3,24 @@
 *Last updated: 15 October 2026.*
 
 ## Who I am
-WattBoard (iPhone, iPad, Apple Watch, Mac and Android) is created and maintained by **zerocoolspain** (independent project, not affiliated with Tesla, Inc. or the TeslaMate project).
+WattBoard (iPhone, iPad, Apple Watch, Mac and Android) is created and maintained by **zerocoolspain** (independent project, not affiliated with Tesla, Inc.).
 Privacy contact: **wattboardapp@gmail.com**.
 
 ## Summary
 - Wattboard has **no accounts, no ads, no analytics and no tracking**.
-- The app connects **only to your own server** (TeslaMate, TeslaMateApi, Grafana or Postgres). Your driving data **never goes through any server of mine**.
+- The app connects **only to your own server** (its REST API, Grafana or Postgres). Your driving data **never goes through any server of mine**.
 - The only information that can reach the developer is the **feedback you choose to send** from “Send feedback”.
 
 ## Data the app handles on your device
 - **Your car and trip data**, read from your server. It is shown on screen and a temporary copy is kept on your device so you can view it offline (removed when you uninstall the app).
-- **Your server addresses and credentials.** Passwords and tokens are stored in the iOS/macOS Keychain, or encrypted with the Android Keystore on Android. On Apple devices the TeslaMateApi address and token are shared with the app's widgets through a private container (App Group).
+- **Your server addresses and credentials.** Passwords and tokens are stored in the iOS/macOS Keychain, or encrypted with the Android Keystore on Android. On Apple devices the API address and token are shared with the app's widgets through a private container (App Group).
 - **Settings** (language, appearance, alerts) and a **log of recent errors** with no addresses, usernames or passwords.
 - **Local notifications** (charge finished, low battery) are computed on your device, with no server. The Face ID, Touch ID or fingerprint lock is handled by the operating system: the app never receives your biometric data.
 
 ## Third-party services used by the app
 - **Apple Maps / MapKit** (iPhone, iPad and Mac), to show maps. Apple receives the coordinates needed to draw the map, under its own privacy policy.
 - **Google Code Scanner (Google Play services)** on Android, only if you scan a setup QR code. The scan is processed on the device and the app does not receive your camera images.
-- Your own server and the tools you host (Tailscale, VPN, etc.) are governed by their own terms.
+- Your own server and the tools you host (private networks, reverse proxies, etc.) are governed by their own terms.
 
 ## Feedback sent by the user (optional)
 Only if you tap **Send** in “Send feedback” (available in the iPhone/iPad/Mac app; the Android app has no feedback form for now):
