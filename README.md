@@ -21,9 +21,6 @@
 - Face ID / fingerprint lock, privacy mode, QR setup between devices.
 - 7 languages: es, en, de, fr, pt, zh, fi.
 
-## Guía de conexión / Connection guide
-[Guía de conexión (PDF, ES)](guides/Wattboard-guia-conexion.pdf) · [Connection guide (PDF, EN)](guides/Wattboard-connection-guide.pdf)
-
 ## Downloads / Descargas
 iOS / iPadOS / macOS: TestFlight (by invitation) · por invitación. Android: Google Play (closed test) · prueba cerrada en Google Play. The macOS test build in [Releases](../../releases) can be verified with [VERIFY.md](VERIFY.md) · El zip de macOS de [Releases](../../releases) se puede comprobar con [VERIFY.md](VERIFY.md).
 
