@@ -22,7 +22,7 @@
 - 7 languages: es, en, de, fr, pt, zh, fi.
 
 ## Downloads / Descargas
-iOS / iPadOS / macOS: TestFlight (by invitation) · por invitación. Android: direct APK download in [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.2), verify it first with [VERIFY.md](VERIFY.md) · descarga directa del APK en [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.2), compruébalo antes con [VERIFY.md](VERIFY.md). This APK can't make in-app purchases (Google Play only), so it always stays on the Free tier · este APK no puede hacer compras (solo la versión de Google Play), así que se queda siempre en el nivel Gratis.
+iOS / iPadOS / macOS: TestFlight (by invitation) · por invitación. Android: direct APK download in [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.2), verify it first with [VERIFY.md](VERIFY.md) · descarga directa del APK en [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.2), compruébalo antes con [VERIFY.md](VERIFY.md).
 
 ## Privacy
 Your data goes straight from **your server** to **your phone**. There is no WattBoard server, no account and no analytics. See the [privacy policy](PRIVACY.md) · [política de privacidad](PRIVACIDAD.md).
