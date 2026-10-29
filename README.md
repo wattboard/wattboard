@@ -22,14 +22,14 @@
 - 7 languages: es, en, de, fr, pt, zh, fi.
 
 ## Downloads / Descargas
-iOS / iPadOS / macOS: TestFlight (by invitation) · por invitación. Android: Google Play (closed test) · prueba cerrada en Google Play. The macOS test build in [Releases](../../releases) can be verified with [VERIFY.md](VERIFY.md) · El zip de macOS de [Releases](../../releases) se puede comprobar con [VERIFY.md](VERIFY.md).
+iOS / iPadOS / macOS: TestFlight (by invitation) · por invitación. Android: direct APK download in [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.2), verify it first with [VERIFY.md](VERIFY.md) · descarga directa del APK en [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.2), compruébalo antes con [VERIFY.md](VERIFY.md). This APK can't make in-app purchases (Google Play only), so it always stays on the Free tier · este APK no puede hacer compras (solo la versión de Google Play), así que se queda siempre en el nivel Gratis.
 
 ## Privacy
 Your data goes straight from **your server** to **your phone**. There is no WattBoard server, no account and no analytics. See the [privacy policy](PRIVACY.md) · [política de privacidad](PRIVACIDAD.md).
 
 ## Testing / Pruebas
-Want to try it? iPhone, iPad and Mac: open an [issue](../../issues/new/choose) or write to **wattboardapp@gmail.com** and you will get a TestFlight invitation. Android: the test version is distributed through Google Play (closed test); write to the same address with your Gmail to be added. The old APK in [Releases](../../releases) is obsolete and no longer updated.
-¿Quieres probarla? iPhone, iPad y Mac: escribe a **wattboardapp@gmail.com** o abre un [issue](../../issues/new/choose) y recibirás una invitación de TestFlight. Android: la versión de pruebas va por Google Play (prueba cerrada); escribe al mismo correo con tu Gmail para que te añada. El APK antiguo de [Releases](../../releases) está obsoleto y ya no se actualiza.
+Want to try it? iPhone, iPad and Mac: open an [issue](../../issues/new/choose) or write to **wattboardapp@gmail.com** and you will get a TestFlight invitation. Android: download the APK directly from [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.2) — no invitation needed.
+¿Quieres probarla? iPhone, iPad y Mac: escribe a **wattboardapp@gmail.com** o abre un [issue](../../issues/new/choose) y recibirás una invitación de TestFlight. Android: descarga el APK directamente desde [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.2) — no necesitas invitación.
 
 ## Free / Gratis
 WattBoard is free, with no paid plans: car, drives, charges, statistics, Grafana dashboards, widgets and share cards, all included · WattBoard es gratuita, sin planes de pago: coche, trayectos, cargas, estadísticas, dashboards de Grafana, widgets y tarjetas, todo incluido.
