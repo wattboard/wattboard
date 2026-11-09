@@ -7,6 +7,7 @@ Las versiones de pruebas aún no están firmadas por Apple ni Google. Para asegu
 |---|---|---|
 | `WattBoard-Mac-pruebas.zip` (macOS 14+) | 1.0 test · 15 Oct 2026 | `c9cf8a223a038722dc372ce7d1d5d848c1c441e3e30cfe255853c418cd99c0cb` |
 | `Wattboard-35-1.5.2-firmado.apk` (Android) | 1.5.2 · 29 Oct 2026 | `a44f7ab762c7c1f2a7227a4fbfb1dd005b2321bb64f658282c5527c887a3fc1c` |
+| `Wattboard-36-1.5.3-firmado.apk` (Android) | 1.5.3 · 9 Nov 2026 | `279e0c1984019bee56dfde13369101013a13211373d7a1d84cb60c8fad1cd5dd` |
 
 ## macOS
 Open Terminal and run / Abre Terminal y escribe:
