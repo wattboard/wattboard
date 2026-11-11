@@ -9,6 +9,7 @@ Las versiones de pruebas aún no están firmadas por Apple ni Google. Para asegu
 | `Wattboard-35-1.5.2-firmado.apk` (Android) | 1.5.2 · 29 Oct 2026 | `a44f7ab762c7c1f2a7227a4fbfb1dd005b2321bb64f658282c5527c887a3fc1c` |
 | `Wattboard-36-1.5.3-firmado.apk` (Android) | 1.5.3 · 9 Nov 2026 | `279e0c1984019bee56dfde13369101013a13211373d7a1d84cb60c8fad1cd5dd` |
 | `Wattboard-37-1.5.4-firmado.apk` (Android) | 1.5.4 · 9 Nov 2026 | `74834c92097dfd6a51150182db6574f76b29131618f9e30d4c13e471ace3ed17` |
+| `Wattboard-38-1.5.5-firmado.apk` (Android) | 1.5.5 · 11 Nov 2026 | `26dea1848a1408a137c9b3068d8251be6f593b87383509344dfbf8e21a0343e2` |
 
 ## macOS
 Open Terminal and run / Abre Terminal y escribe:
