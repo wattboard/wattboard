@@ -22,14 +22,14 @@
 - 7 languages: es, en, de, fr, pt, zh, fi.
 
 ## Downloads / Descargas
-iOS / iPadOS / macOS: TestFlight (by invitation) · por invitación. Android: direct APK download in [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.5), verify it first with [VERIFY.md](VERIFY.md) · descarga directa del APK en [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.5), compruébalo antes con [VERIFY.md](VERIFY.md).
+iOS / iPadOS / macOS: TestFlight (by invitation) · por invitación. Android: direct APK download in [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.6), verify it first with [VERIFY.md](VERIFY.md) · descarga directa del APK en [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.6), compruébalo antes con [VERIFY.md](VERIFY.md).
 
 ## Privacy
 Your data goes straight from **your server** to **your phone**. There is no WattBoard server, no account and no analytics. See the [privacy policy](PRIVACY.md) · [política de privacidad](PRIVACIDAD.md).
 
 ## Testing / Pruebas
-Want to try it? iPhone, iPad and Mac: open an [issue](../../issues/new/choose) or write to **wattboardapp@gmail.com** and you will get a TestFlight invitation. Android: download the APK directly from [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.5) — no invitation needed.
-¿Quieres probarla? iPhone, iPad y Mac: escribe a **wattboardapp@gmail.com** o abre un [issue](../../issues/new/choose) y recibirás una invitación de TestFlight. Android: descarga el APK directamente desde [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.5) — no necesitas invitación.
+Want to try it? iPhone, iPad and Mac: open an [issue](../../issues/new/choose) or write to **wattboardapp@gmail.com** and you will get a TestFlight invitation. Android: download the APK directly from [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.6) — no invitation needed.
+¿Quieres probarla? iPhone, iPad y Mac: escribe a **wattboardapp@gmail.com** o abre un [issue](../../issues/new/choose) y recibirás una invitación de TestFlight. Android: descarga el APK directamente desde [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.5.6) — no necesitas invitación.
 
 ## Free / Gratis
 WattBoard is free, with no paid plans: car, drives, charges, statistics, Grafana dashboards, widgets and share cards, all included · WattBoard es gratuita, sin planes de pago: coche, trayectos, cargas, estadísticas, dashboards de Grafana, widgets y tarjetas, todo incluido.
