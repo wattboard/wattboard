@@ -1,43 +1,28 @@
-<p align="center"><img src="assets/icon.png" width="120" alt="WattBoard icon"></p>
+<h1>Hola, soy Miguel Ángel 👋</h1>
 
-# WattBoard
+**Desarrollador móvil iOS y Android.** Diseño, programo y publico apps nativas en Swift y Kotlin, desde la idea hasta la ficha de la tienda. Llevo más de 20 años en informática (C/C++, Oracle, sistemas Linux, telecos) y ahora me dedico al desarrollo móvil.
 
-**EN** · Native iPhone, Mac & Android viewer for the car data on your own server. No cloud, no account, no tracking.
-**ES** · Visor nativo para iPhone, Mac y Android de los datos de coche de tu propio servidor. Sin nube, sin cuenta, sin rastreo.
+📍 Madrid · trabajo en remoto · [Porfolio](https://miguelarriba-dev.github.io/) · [LinkedIn](https://www.linkedin.com/in/miguel-%C3%A1ngel-de-arriba-guti%C3%A9rrez-b70b309/) · [CV (PDF)](https://miguelarriba-dev.github.io/cv.pdf)
 
-> **Status / Estado:** testing / en pruebas. Not yet in the App Store or Google Play.
+## Mis apps
 
-<p align="center">
-<img src="assets/coche.png" width="230" alt="Car">
-<img src="assets/estadisticas.png" width="230" alt="Stats">
-<img src="assets/trayectos.png" width="230" alt="Drives">
-</p>
+| | App | Qué es | Plataformas | Estado |
+|---|---|---|---|---|
+| <img src="https://miguelarriba-dev.github.io/assets/glanceboard-icon.png" width="40" alt=""> | **[GlanceBoard](https://miguelarriba-dev.github.io/#glanceboard)** | Cuadro de mandos en vivo para el coche, por Bluetooth directo | iOS · Android | Beta abierta: [iPhone](https://testflight.apple.com/join/BWk671ut) · [Android](https://groups.google.com/g/glanceboard-testers) |
+| <img src="https://miguelarriba-dev.github.io/assets/wattboard-icon.png" width="40" alt=""> | **[WattBoard](https://miguelarriba-dev.github.io/#wattboard)** | Los datos de tu coche eléctrico desde tu propio servidor | iPhone · iPad · Mac · Watch · Android | [App Store](https://apps.apple.com/es/app/wattboard/id6823307252) · [soporte](https://wattboard.github.io/wattboard/) |
+| <img src="https://miguelarriba-dev.github.io/assets/hexa-icon.png" width="40" alt=""> | **[Hexa: aprende insectos](https://miguelarriba-dev.github.io/#hexa)** | App educativa sobre insectos para primaria | iOS · iPadOS · Android · web | [Beta](https://wattboard.github.io/hexa-web/) · [probar en el navegador](https://wattboard.github.io/hexa-web/app/) |
+| <img src="https://miguelarriba-dev.github.io/assets/pasito-icon.png" width="40" alt=""> | **[Pasito](https://miguelarriba-dev.github.io/#pasito)** | Divide tareas en pasos con IA que funciona en el iPhone | iPhone | [App Store](https://apps.apple.com/es/app/pasito-tareas-en-pasos/id6827150164) |
+| <img src="https://miguelarriba-dev.github.io/assets/zipwing-icon.png" width="40" alt=""> | **[ZipWing](https://miguelarriba-dev.github.io/#zipwing)** | Juego arcade de un solo toque | iPhone | En desarrollo |
 
-## What it does
-- Car status, battery, range, climate, tyres, doors and locks (via your server's REST API).
-- Drives and charges with filters, stats by date range, CSV and GPX export.
-- Widgets, Apple Watch, charge and plug-in alerts, offline cache.
-- Your own Grafana dashboards as native screens.
-- Face ID / fingerprint lock, privacy mode, QR setup between devices.
-- 7 languages: es, en, de, fr, pt, zh, fi.
+## Con qué trabajo
 
-## Downloads / Descargas
-iOS / iPadOS / macOS: TestFlight (by invitation) · por invitación. Android: direct APK download in [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.6), verify it first with [VERIFY.md](VERIFY.md) · descarga directa del APK en [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.6), compruébalo antes con [VERIFY.md](VERIFY.md).
+- **iOS:** Swift 6, SwiftUI, SwiftData, WidgetKit, Live Activities, watchOS, App Intents, Core Bluetooth, Foundation Models, SpriteKit
+- **Android:** Kotlin, Jetpack Compose, Glance, DataStore, WorkManager, Bluetooth LE, Play Integrity
+- **Tiendas:** StoreKit 2, Google Play Billing, TestFlight, App Store Connect y Google Play APIs, AdMob con consentimiento RGPD
+- **Otros:** Python, Go, TypeScript, Linux, Git, XCTest, JUnit
 
-## Privacy
-Your data goes straight from **your server** to **your phone**. There is no WattBoard server, no account and no analytics. See the [privacy policy](PRIVACY.md) · [política de privacidad](PRIVACIDAD.md).
+El código de las apps está en repositorios privados. Lo enseño bajo petición.
 
-## Testing / Pruebas
-Want to try it? iPhone, iPad and Mac: open an [issue](../../issues/new/choose) or write to **wattboardapp@gmail.com** and you will get a TestFlight invitation. Android: download the APK directly from [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.6) — no invitation needed.
-¿Quieres probarla? iPhone, iPad y Mac: escribe a **wattboardapp@gmail.com** o abre un [issue](../../issues/new/choose) y recibirás una invitación de TestFlight. Android: descarga el APK directamente desde [Releases](https://github.com/wattboard/wattboard/releases/tag/android-1.6) — no necesitas invitación.
+---
 
-## Free / Gratis
-WattBoard is free, with no paid plans: car, drives, charges, statistics, Grafana dashboards, widgets and share cards, all included · WattBoard es gratuita, sin planes de pago: coche, trayectos, cargas, estadísticas, dashboards de Grafana, widgets y tarjetas, todo incluido.
-
-## What you need
-A self-hosted server of your own that logs your car's data, with its REST API and/or Grafana. Never expose these services to the internet without protection: use HTTPS or a private connection.
-
-## Disclaimer
-WattBoard is an independent project and is not affiliated with, endorsed by, or sponsored by Tesla, Inc. Tesla is a trademark of Tesla, Inc.
-
-© zerocoolspain. All rights reserved. This repository contains project information only, not the source code.
+<sub>WattBoard y GlanceBoard son apps independientes, no afiliadas a Tesla, Inc.</sub>
